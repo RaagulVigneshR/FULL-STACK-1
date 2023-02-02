@@ -1,3 +1,3 @@
 function myfunction() {
-    window.location.href = "loginform/index.html";
+    window.location.href = "authentication/index.html";
   }
