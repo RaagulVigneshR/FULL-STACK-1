@@ -8,3 +8,9 @@ The layer above the back end is the front end and it includes all software or ha
 - CSS
 - SCSS
 - JAVASCRIPT
+## BACK-END
+The back end refers to parts of a computer application or a program's code that allow it to operate and that cannot be accessed by a user. Most data and operating syntax are stored and accessed in the back end of a computer system. Typically the code is comprised of one or more programming languages.
+### LANGUAGE USED
+- SQL
+- PHPMYADMIN
+- AWS S3
